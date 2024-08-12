@@ -1,3 +1,6 @@
+![early](https://github.com/Dhruv3004/Potato-Disease-Prediction/blob/main/0a47f32c-1724-4c8d-bfe4-986cedd3587b___RS_Early.B%208001.JPG?raw=true)
+
+
 # Potato Plant Disease Detection
 
 This project aims to detect diseases in potato plants using Convolutional Neural Networks (CNN). The model is designed to classify potato leaves into three categories: early blight, late blight, and healthy. By analyzing images of the leaves, the CNN can identify signs of disease and help farmers take timely action to protect their crops.
