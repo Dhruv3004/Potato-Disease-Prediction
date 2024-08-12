@@ -1,5 +1,5 @@
 ![early](https://github.com/Dhruv3004/Potato-Disease-Prediction/blob/main/0a47f32c-1724-4c8d-bfe4-986cedd3587b___RS_Early.B%208001.JPG?raw=true)
-
+![healthy](https://github.com/Dhruv3004/Potato-Disease-Prediction/blob/main/0b3e5032-8ae8-49ac-8157-a1cac3df01dd___RS_HL%201817.JPG?raw=true)
 
 # Potato Plant Disease Detection
 
